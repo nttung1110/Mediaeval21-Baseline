@@ -9,6 +9,8 @@ This is the official repository for our baseline [Mediaeval Challenge-Sport Clas
 Our solution for the problem consists of two stage: individual classification for each component of raw labels, and conditional probability model for producing final results.
 Here is the general pipeline of our baseline.
 
+![General Pipeline](/MediaEval21_Pipeline.png)
+
 ## Repository Usage
 
 The original mmpose modules can be found at [Open-mmlab mmpose](https://github.com/open-mmlab/mmpose)

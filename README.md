@@ -62,4 +62,5 @@ Run the shell script ```infer.sh``` to conduct inference on the dataset
 If you have any concerns about this project, please contact:
 
 + Nguyen Trong Tung(nguyentrongtung11101999@gmail.com)
++ Dinh Ho Gia Bao(dinhhogiabao@gmail.com)
 
